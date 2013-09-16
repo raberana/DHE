@@ -1,0 +1,3 @@
+c:\users\rogeross\documents\visual studio 2012\Projects\DHE\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\Rogeross\Documents\SourceTree\DHE\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\Rogeross\Documents\SourceTree\DSHE\MainApp\bin\Debug\MainApp.exe.config
